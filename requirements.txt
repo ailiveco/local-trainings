@@ -1,0 +1,4 @@
+stable-baselines3
+requests==2.31.0
+tensorboard
+gymnasium[mujoco]
